@@ -10,11 +10,11 @@ I'm currently a enthusiast and a student in IT and Computer Science, and you can
 
 I really like to:
 
-* Play videogames (MMO's) 🎮 
-* Resolve code problems 💻 
-* Drink _a lot_ of coffe ☕
-* Spend time with my family, friends and loved ones 💑
-* Learn new languages 📚
+* Play __videogames__ (MMO's) 🎮 
+* Resolve __code problems__ 💻 
+* Drink __a lot__ of coffe ☕
+* Spend time with my __family, friends and loved ones__ 💑
+* Learn new __languages__ 📚
 
 ## 🌐 My Social Networks
 
