@@ -6,13 +6,17 @@ My name is Gabriel Braga da Costa and i was born and raised in Santa Maria, Rio 
 
 I'm currently a enthusiast and a student in IT and Computer Science, and you can say i'm working on becoming a Web Development Technician | Full Stack.
 
+## 📋 Research interests 
+
+Web development and backend programming.
+
 ## 🎨 What are your hobbies?
 
 I really like to:
 
 * Play __videogames__ (MMO's) 🎮 
 * Resolve __code problems__ 💻 
-* Drink __a lot__ of coffe ☕
+* Drink __a lot of coffe__ ☕
 * Spend time with my __family, friends and loved ones__ 💑
 * Learn new __languages__ 📚
 
