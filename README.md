@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+My name is Gabriel Braga da Costa and i was born and raised in Santa Maria, Rio Grande do Sul, Brazil. I have a bachelor's degree in Artes Visuais by [Federal University of Santa Maria](https://www.ufsm.br/cursos/graduacao/santa-maria/artes-visuais).(UFSM).
 
 <!--
 **Gabriel-Braga-da-Costa/Gabriel-Braga-da-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
