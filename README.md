@@ -4,7 +4,7 @@ My name is Gabriel Braga da Costa and i was born and raised in Santa Maria, Rio 
 
 ## 🤔 What about you? 
 
-I'm currently a enthusiast in IT and Computer Science. You can say and working on becoming a Web Development Technician | Full Stack Enthusiast.
+I'm currently a enthusiast and a student in IT and Computer Science. You can say and working on becoming a Web Development Technician | Full Stack Enthusiast.
 
 ## 🎨 What are your hobbies?
 
